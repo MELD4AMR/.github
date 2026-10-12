@@ -92,7 +92,7 @@ The research website contains an up-to-date overview of planned themes, mileston
 
 MELD4AMR is supported through the **WEB2025** funding framework.
 
-Formal funding acknowledgement, grant information, and any mandatory funder wording will be added once confirmed through the official award documentation.
+`Formal funding acknowledgement, grant information, and any mandatory funder wording will be added once confirmed through the official award documentation.`
 
 ## Responsible Research
 
@@ -102,13 +102,11 @@ Public releases are reviewed before publication, particularly where molecular da
 
 ## Website
 
-Project website: [MELD4AMR](https://YOUR-GITHUB-ORGANISATION.github.io/YOUR-WEBSITE-REPOSITORY/)
-
-Replace the URL above with the final GitHub Pages address of the project website.
+Project website: [MELD4AMR](https://meld4amr.github.io/)
 
 ## Contact
 
-A public project contact address will be added when available.
+
 
 ## License
 
