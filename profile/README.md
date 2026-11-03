@@ -34,7 +34,7 @@ The project explores privacy-preserving mechanisms that can support secure molec
 
 ## Collaboration
 
-MELD4AMR connects researchers and organisations in Germany and Serbia.
+MELD4AMR connects researchers and organizations in Germany and Serbia.
 
 ### Research partners
 
@@ -61,18 +61,24 @@ MELD4AMR connects researchers and organisations in Germany and Serbia.
 - **Nevena Ćirić** — Project Lead, Serbia  
   Faculty of Mathematics, University of Belgrade
 
-- **PD Dr. Georges Hattab** — Scientific Oversight  
+- **PD Dr. Georges Hattab** — Scientific Oversight, Germany  
   ZKI-PH, Robert Koch Institute / Freie Universität Berlin
 
-- **Prof. Dr. Jovana Kovačević** — Scientific Mentorship  
+- **Prof. Dr. Jovana Kovačević** — Scientific Oversight, Serbia  
   Faculty of Mathematics, University of Belgrade
 
-- **Dr. Nevena Veljković** — Industry Advisor  
+- **Yunsu Cho** — Ph.D. Student, Germany  
+  ZKI-PH, Robert Koch Institute / Freie Universität Berlin
+
+- **Robert Doža** — Ph.D. Student, Serbia  
+  Faculty of Mathematics, University of Belgrade
+  
+- **Dr. Nevena Veljković** — Industry Advisor, Serbia  
   Genial D.O.O. / Vinča Institute of Nuclear Sciences
 
 ## Planned Outputs
 
-As the project progresses, this organisation may host public research outputs, including:
+As the project progresses, this organization may host public research outputs, including:
 
 - Open-source software and reproducible research tools
 - Molecular embedding and benchmarking resources
@@ -90,9 +96,7 @@ The research website contains an up-to-date overview of planned themes, mileston
 
 ## Funding
 
-MELD4AMR is supported through the **WEB2025** funding framework.
-
-`Formal funding acknowledgement, grant information, and any mandatory funder wording will be added once confirmed through the official award documentation.`
+MELD4AMR is funded under the WEB2025 funding framework of the German Federal Ministry of Research, Technology and Space (BMFTR). Grant ID: `01DS26014`.
 
 ## Responsible Research
 
@@ -106,7 +110,7 @@ Project website: [MELD4AMR](https://meld4amr.github.io/)
 
 ## Contact
 
-
+[AnzelA@rki.de](mailto:AnzelA@rki.de)
 
 ## License
 
